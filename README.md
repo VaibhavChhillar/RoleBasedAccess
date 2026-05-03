@@ -6,7 +6,7 @@ A full-stack project management web application with **role-based access control
 
 ## Live Demo
 
-🔗 Add your deployed Railway link here
+https://rolebasedaccess-1.onrender.com
 
 ## 🎯 Features
 
@@ -74,7 +74,7 @@ A full-stack project management web application with **role-based access control
 
 ### Deployment
 
-* Railway
+* I USED RENDER BECAUSE ON RAILWAY LIMIT WAS EXCEEDED AND I WAS UNABLE TO COMPLETE. SO I CHOOSE RENDER
 
 ---
 
@@ -116,52 +116,7 @@ npm install
 npm run dev
 ```
 
-### Access:
 
-* Frontend → http://localhost:5173
-* Backend → http://localhost:5000
-
----
-
-## 🚀 Deployment (Railway)
-
-1. Push project to GitHub
-2. Go to Railway → Create Project → Deploy from GitHub
-3. Add environment variables:
-
-   * `MONGO_URI`
-   * `JWT_SECRET`
-4. Railway will:
-
-   * Install dependencies
-   * Build frontend
-   * Start backend server
-
----
-
-## 🎥 Demo Video
-
-🔗 Add 2–5 min demo video link here
-
----
-
-## 🧪 Test Credentials (Optional but IMPRESSIVE)
-
-Admin:
-
-```
-email: admin@test.com
-password: 123456
-```
-
-Member:
-
-```
-email: member@test.com
-password: 123456
-```
-
----
 
 ## ✨ Future Improvements
 
